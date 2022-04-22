@@ -69,7 +69,7 @@ function App() {
       </nav>
 
       <Routes>
-        <Route path="/" element={<Home/>}/>
+        <Route path="/arctasoft" element={<Home/>}/>
         <Route path="/portfolio" element={<Portfolio/>}/>
         <Route path="/aboutus" element={<AboutUs/>}/>
         <Route path="/news" element={<News/>}/>
