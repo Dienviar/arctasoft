@@ -76,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### "homepage": "https://dnvrdnnl.github.io/arctasoft",
 
 ### "predeploy": "npm run build", "deploy": "gh-pages -d build"
+
+## NOTE: Change the router "arctasoft" to "/"
