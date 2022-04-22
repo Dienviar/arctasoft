@@ -1,4 +1,4 @@
-#TIMEFREE 1ST TASK ARCTASOFT WEBSITE
+# Timefree 1st task Arctasoft Website
 
 # Getting Started with Create React App
 
