@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arctasoft/static/css/main.e010d168.css",
-    "main.js": "/arctasoft/static/js/main.f32abbda.js",
+    "main.js": "/arctasoft/static/js/main.8adef79b.js",
     "static/js/787.8f764cfe.chunk.js": "/arctasoft/static/js/787.8f764cfe.chunk.js",
     "static/media/client_feedback.png": "/arctasoft/static/media/client_feedback.1d0df0dacf9f47556ec0.png",
     "static/media/landing_pic.png": "/arctasoft/static/media/landing_pic.9f30bcbdf408894d1ffd.png",
@@ -30,11 +30,11 @@
     "static/media/arctasoft_white.png": "/arctasoft/static/media/arctasoft_white.48d42ef70d8d234c367a.png",
     "index.html": "/arctasoft/index.html",
     "main.e010d168.css.map": "/arctasoft/static/css/main.e010d168.css.map",
-    "main.f32abbda.js.map": "/arctasoft/static/js/main.f32abbda.js.map",
+    "main.8adef79b.js.map": "/arctasoft/static/js/main.8adef79b.js.map",
     "787.8f764cfe.chunk.js.map": "/arctasoft/static/js/787.8f764cfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e010d168.css",
-    "static/js/main.f32abbda.js"
+    "static/js/main.8adef79b.js"
   ]
 }
