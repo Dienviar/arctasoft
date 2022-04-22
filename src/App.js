@@ -31,7 +31,7 @@ function App() {
         </article>
 
         <article className='absolute z-30 flex items-center h-full mr-5 right-2 screen550px:left-5'>
-          <NavLink to="/" activeclassname='active' onClick={() => setHamburger(false)} className='px-5 text-lg font-semibold duration-300 hover:text-green_pal screen950px:hidden'>Home</NavLink>
+          <NavLink to="/arctasoft" activeclassname='active' onClick={() => setHamburger(false)} className='px-5 text-lg font-semibold duration-300 hover:text-green_pal screen950px:hidden'>Home</NavLink>
           <NavLink to="/portfolio" activeclassname='active' className='px-5 text-lg font-semibold duration-300 hover:text-green_pal screen950px:hidden'>Portfolio</NavLink>
           <NavLink to="/news" activeclassname='active' className='px-5 text-lg font-semibold duration-300 hover:text-green_pal screen950px:hidden'>News</NavLink>
           <NavLink to="/careers" activeclassname='active' className='px-5 text-lg font-semibold duration-300 hover:text-green_pal screen950px:hidden'>Careers</NavLink>
@@ -45,7 +45,7 @@ function App() {
 
         <article className={`duration-300 fixed flex justify-center items-center w-full h-auto screen250px:w-250px max-w-500px bg-white ${hamburger ? 'top-0' : '-top-500px'} z-10 shadow-md hidden screen950px:block`}>
           <div className='w-full h-auto mt-24 mb-5 noselect'>
-            <NavLink to="/" activeclassname='active' className='relative flex items-center justify-center w-full h-16 font-semibold duration-300 hover:text-green_pal'>
+            <NavLink to="/arctasoft" activeclassname='active' className='relative flex items-center justify-center w-full h-16 font-semibold duration-300 hover:text-green_pal'>
               <p className='text-xl'>Home</p>
             </NavLink>
 
