@@ -42,7 +42,7 @@ function App() {
             <MdOutlineClose className={`w-8 h-8 cursor-pointer ${!hamburger && 'hidden'} hover:text-red-500 duration-300`} onClick={() => setHamburger(false)}/>
           </div>
         </article>
-
+{/* "homepage": "https://dnvrdnnl.github.io/arctasoft", */}
         <article className={`duration-300 fixed flex justify-center items-center w-full h-auto screen250px:w-250px max-w-500px bg-white ${hamburger ? 'top-0' : '-top-500px'} z-10 shadow-md hidden screen950px:block`}>
           <div className='w-full h-auto mt-24 mb-5 noselect'>
             <NavLink to="/" activeclassname='active' className='relative flex items-center justify-center w-full h-16 font-semibold duration-300 hover:text-green_pal'>
